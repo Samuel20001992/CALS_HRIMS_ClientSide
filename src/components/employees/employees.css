@@ -1,0 +1,58 @@
+.tabs{
+    float: 'left';
+    width: 310px;
+    height: 100%;
+    margin-left: 20px;
+}
+.tab {
+   float: left;
+   padding: 10px;
+   margin-bottom:'10px';
+   width: 300px;
+  
+}
+
+.page{
+    color: grey;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+.path{
+    color: blue;
+    padding: 5px;
+
+}
+
+.links{
+    color: blue;
+    text-decoration: none;
+    
+}
+
+.view{
+    width: 900px;
+    margin-top: 80px;
+    margin-left: 160px;
+}
+
+.tag{
+    color: grey;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 3px;
+}
+
+.datalist{
+    padding: 10px;
+    margin:10px;
+}
+
+.choice{
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+Link{
+    text-decoration: none;
+}
